@@ -1,17 +1,17 @@
 <div align="center">
 
-# 👋 Hi, I'm Hanan Zia
+# 👋 Hi, I'm Muhammad Hanan Zia
 
 ### 🎓 Computer Science Student | 🤖 AI Enthusiast | 💻 Software Developer
 
 <p>
-  <a href="https://github.com/hananzia">
-    <img src="https://img.shields.io/github/followers/hananzia?label=Followers&style=for-the-badge" />
+  <a href="https://github.com/HananZia">
+    <img src="https://img.shields.io/github/followers/HananZia?label=Followers&style=for-the-badge" />
   </a>
   <a href="https://github.com/hananzia?tab=repositories">
-    <img src="https://img.shields.io/github/stars/hananzia?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Stars" />
+    <img src="https://img.shields.io/github/stars/HananZia?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Stars" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=hananzia&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=HananZia&style=for-the-badge&color=blue" />
 </p>
 
 <p>
@@ -115,9 +115,9 @@ A Java-based multiplayer Battle Royale-style game project focused on applying Ob
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hananzia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=HananZia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananzia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HananZia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -127,7 +127,7 @@ A Java-based multiplayer Battle Royale-style game project focused on applying Ob
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=hananzia&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=HananZia&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -137,7 +137,7 @@ A Java-based multiplayer Battle Royale-style game project focused on applying Ob
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hananzia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=HananZia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
 
 </div>
 
@@ -147,7 +147,7 @@ A Java-based multiplayer Battle Royale-style game project focused on applying Ob
 
 <div align="center">
 
-[![Hanan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hananzia\&theme=tokyo-night\&hide_border=true)](https://github.com/hananzia)
+[![Hanan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HananZia\&theme=tokyo-night\&hide_border=true)](https://github.com/HananZia)
 
 </div>
 
@@ -214,15 +214,15 @@ I believe the best way to learn technology is by building real projects and solv
 
 <div align="center">
 
-<a href="https://github.com/hananzia">
+<a href="https://github.com/HananZia">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="https://www.linkedin.com/in/muhammad-hanan-zia-738b032ab/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:hananzia477@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
