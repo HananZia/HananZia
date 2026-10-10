@@ -25,12 +25,12 @@
 I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, Software Engineering, and Web Development**. I enjoy turning ideas from the classroom into real, working software — combining solid engineering fundamentals with intelligent systems.
 
 ```yaml
-name:          Muhammad Hanan Zia
-role:          Computer Science Student
-focus:         AI / Machine Learning • Software Engineering • Web Development
-currently:     Deepening ML fundamentals & backend development skills
-philosophy:    Learn → Build → Break → Debug → Improve → Repeat
-fun_fact:      I like turning university ideas into actual working projects
+Nme:          Muhammad Hanan Zia
+Role:          Computer Science Student
+Focus:         AI / Machine Learning • Software Engineering • Web Development
+Currently:     Deepening ML fundamentals & backend development skills
+Philosophy:    Learn → Build → Break → Debug → Improve → Repeat
+Fun_fact:      I like turning university ideas into actual working projects
 ```
 
 <br/>
