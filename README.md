@@ -25,9 +25,9 @@
 I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, Software Engineering, and Web Development**. I enjoy turning ideas from the classroom into real, working software — combining solid engineering fundamentals with intelligent systems.
 
 ```yaml
-Nme:          Muhammad Hanan Zia
-Role:          Computer Science Student
-Focus:         AI / Machine Learning • Software Engineering • Web Development
+Name:          Muhammad Hanan Zia
+Role:          Computer Scientist
+Focus:         AI / Machine Learning • Software Engineering • Cybersecurity
 Currently:     Deepening ML fundamentals & backend development skills
 Philosophy:    Learn → Build → Break → Debug → Improve → Repeat
 Fun_fact:      I like turning university ideas into actual working projects
@@ -90,7 +90,7 @@ Fun_fact:      I like turning university ideas into actual working projects
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ CyberMorph
+### CyberMorph
 **AI-powered antivirus & malware defense system**
 
 Detects, prevents, and removes malware in real time by combining machine learning models with a modular scanning agent, backend API, and frontend dashboard. Built to be cross-platform and lightweight to deploy.
@@ -100,7 +100,7 @@ Detects, prevents, and removes malware in real time by combining machine learnin
 </td>
 <td width="50%" valign="top">
 
-### 🗳️ Clarity
+### Clarity
 **NLP-driven political interview analysis toolkit**
 
 An exploratory data analysis toolkit for political interview transcripts that surfaces how clearly respondents answer questions, flagging evasion patterns and lexical habits. Generates publication-ready visualizations, with optional multimodal support for audio-based analysis.
@@ -112,7 +112,7 @@ An exploratory data analysis toolkit for political interview transcripts that su
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 BlockNet
+### BlockNet
 **Blockchain-based file integrity & sharing system**
 
 A tamper-proof file verification and sharing platform. Blockchain logic runs on a custom Flask + PyChain backend, while a React Native and TypeScript frontend (via Capacitor) delivers a cross-platform Android experience.
@@ -122,7 +122,7 @@ A tamper-proof file verification and sharing platform. Blockchain logic runs on 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 GradeX
+### GradeX
 **Full-stack student record management system**
 
 A role-based platform with dedicated portals for admins, faculty, and students, supporting full CRUD operations across student information, faculty details, and academic records — all through clean, purpose-built interfaces.
